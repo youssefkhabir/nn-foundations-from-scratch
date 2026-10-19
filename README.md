@@ -10,19 +10,6 @@
 
 ---
 
-## 💡 Recommended Repository Titles for GitHub
-
-If you are publishing this repository on GitHub, here are the best options:
-
-| Recommendation | Repository Name (`slug`) | Display Title | Best For |
-|---|---|---|---|
-| ⭐ **Recommended** | `nn-foundations-from-scratch` | **Neural Network Foundations from Scratch** | Clean, highly searchable, professional portfolio display |
-| **Alternative 1** | `nn-zero-to-hero-pytorch` | **Neural Networks: Zero to Hero in PyTorch** | Directly recognizes Andrej Karpathy's famous curriculum |
-| **Alternative 2** | `deep-learning-from-scratch` | **Deep Learning from First Principles: Micrograd to WaveNet** | Academic, clear focus on first-principles derivation |
-| **Alternative 3** | `micrograd-and-makemore-illustrated` | **Micrograd & Makemore: Interactive Foundations** | Emphasizes the two core projects within |
-
----
-
 ## 📌 Table of Contents
 
 - [Overview & Philosophy](#-overview--philosophy)
